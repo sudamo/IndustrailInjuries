@@ -143,7 +143,7 @@ namespace IndustrailInjuries
 
         #region Fill ComboBox
         /// <summary>
-        /// 填充选择下拉框
+        /// 填充下拉框
         /// </summary>
         private void FillCbx()
         {
